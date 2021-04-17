@@ -40,7 +40,7 @@ enum Offset {
 //     P20= 30
 //   };
 
-/*
+
 enum RemoteButton {
     //% block=A
     A = 0x45,
@@ -85,7 +85,7 @@ enum RemoteButton {
     //% block=9
     NUM9 = 0x4A
 };
-*/
+
 
 //% color="#EE6A50" weight=10 icon="\uf013"
 namespace magicbit {
