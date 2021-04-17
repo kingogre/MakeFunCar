@@ -23,7 +23,7 @@
     P20 = 30,
     }
 
-
+/*
     declare const enum remotebutton {
     //% block=A
     A = 0x45,
@@ -68,6 +68,8 @@
     //% block=9
     NUM9 = 0x4A,
     }
+*/    
+    
 declare namespace IrRemote {
 }
 declare namespace maqueenIRV2 {
